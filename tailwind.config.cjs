@@ -8,6 +8,7 @@ module.exports = {
 			gray2: ' #eff6fc',
 			black: '#323130',
 			red: ' #f00',
+			white: '#ffffff',
 		},
 		fontFamily: {
 			sans: ['Segoe UI', 'sans-serif'],
@@ -15,7 +16,7 @@ module.exports = {
 		extend: {
 			backgroundImage: {
 				'custom-meal': "url('/src/assets/custom-meal-bg.png')",
-				'footer-texture': "url('/img/footer-texture.png')",
+				footer: "url('/src/assets/footer-bg.png')",
 			},
 			spacing: {
 				'8xl': '96rem',
