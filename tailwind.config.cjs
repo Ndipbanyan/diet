@@ -7,7 +7,7 @@ module.exports = {
 			gray1: ' #605E5c',
 			gray2: ' #eff6fc',
 			black: '#323130',
-			red: ' #f00',
+			red: ' #b20000',
 			white: '#ffffff',
 		},
 		fontFamily: {
